@@ -52,9 +52,9 @@ Stop everything!!!
 
 Tip: Install before the demo. In case of problems.
 
-But show how easy it is to install the plugin by open the website and highlighting the command.
+But show how easy it is to install the plugin by open the readthedocs-site and highlighting the command.
 
-https://store.docker.com/plugins/netapp-docker-volume-plugin-ndvp?tab=description
+https://netapp-trident.readthedocs.io/
 
 Then go to the host and show the config-file that is used when installing the plugin.
 
