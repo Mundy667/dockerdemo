@@ -2,7 +2,7 @@
 Introduction to Docker  and the NetApp Docker Volume Plugin (nDVP)
 
 ## Instructions
-###Step 1: Hello World
+### Step 1: Hello World
 
 Show the hello-world container
 ```
@@ -20,7 +20,7 @@ docker images ls
 ```
 
 
-###Step 2: A simple service in a containers
+### Step 2: A simple service in a containers
 
 GoTo Folder demo01Web
 
@@ -48,7 +48,7 @@ Open this Webserver at Host-IP:5000
 
 Stop everything!!!  
 
-###Step3: Basics in the NetApp-Docker-Volume Plugin
+### Step3: Basics in the NetApp-Docker-Volume Plugin
 
 Tip: Install before the demo. In case of problems.
 
@@ -76,7 +76,7 @@ docker volume ls
 Show the created volume via SystemManager on the connected NetApp System
 
 
-###Step4: A complete application stack with different services per container
+### Step4: A complete application stack with different services per container
 
 Goto the demo02App - Folder
 
