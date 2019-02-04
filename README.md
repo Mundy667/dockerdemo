@@ -62,7 +62,7 @@ Tip: Install before the demo. In case of problems.
 
 But show how easy it is to install the plugin by open the readthedocs-site and highlighting the command.
 
-https://netapp-trident.readthedocs.io/
+<https://netapp-trident.readthedocs.io/>
 
 Then go to the host and show the config-file that is used when installing the plugin.
 
